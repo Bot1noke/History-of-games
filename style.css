@@ -1,0 +1,39 @@
+body{
+  font-family: 'Arial';
+  margin: 0;
+}
+
+.mainheader{
+  background-color: darkred;
+  color: #fff;
+  padding: 20px 554px 20px 100px;
+  position: fixed;
+}
+
+.mainnav-link{
+  color: #fff;
+}
+
+.mainnav-list{
+  margin: 0;
+  padding: 0;
+}
+
+.mainnav-item{
+  display: inline-block;
+  padding: 5px 10px;
+  border: 1px solid #fff;
+}
+
+main{
+  padding: 50px 100px;
+  position: absolute;
+  top: 100px;
+}
+
+.mainfooter{
+  padding: 10px 100px;
+  background-color: darkslategray;
+  color: #fff;
+  position: fixed;
+}
